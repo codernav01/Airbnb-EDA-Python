@@ -1,4 +1,4 @@
-# 🏡 Exploratory Data Analysis on Airbnb Listings in Python
+# Exploratory Data Analysis on Airbnb Listings in Python
 
 # 📌 Project Overview
 
