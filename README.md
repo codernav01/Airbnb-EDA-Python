@@ -1,3 +1,5 @@
+> **Legacy learning version.** This repository is kept for learning history and is not part of my current featured portfolio. See the maintained Airbnb analytics project: [Airbnb Data Analytics](https://github.com/codernav01/Airbnb-data-analytics).
+
 # Exploratory Data Analysis on Airbnb Listings in Python
 
 # 📌 Project Overview
